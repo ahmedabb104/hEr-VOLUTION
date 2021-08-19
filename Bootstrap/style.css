@@ -1,0 +1,15 @@
+/* #catpic {
+    max-width: 50%
+} */
+
+#carouselExampleIndicators {
+    max-width: 75%;
+}
+
+#carousel-images {
+    max-height: 600px;
+}
+
+img {
+    max-height: 600px;
+}
